@@ -1,6 +1,6 @@
 # Electron Video Downloader (EVD)
-[![GitHub](https://img.shields.io/github/license/hswlab/EVD)](https://github.com/hswlab/EVD/blob/main/LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/hswlab/EVD/total)](https://github.com/hswlab/EVD/releases/latest)
+[![GitHub](https://img.shields.io/github/license/hswlab/EVD)](https://github.com/hswlab/EVD/blob/main/LICENSE) 
+[![Downloads](https://img.shields.io/github/downloads/hswlab/EVD/total)](https://github.com/hswlab/EVD/releases/latest) 
 [![Downloads](https://img.shields.io/github/v/release/hswlab/EVD)](https://github.com/hswlab/EVD/releases/latest) 
 
 EVD is a graphical user interface for the well-known media downloader yt-dlp. In principle, this 
