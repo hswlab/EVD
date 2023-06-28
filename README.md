@@ -6,6 +6,7 @@
 EVD is a graphical user interface for the well-known media downloader yt-dlp. In principle, this 
 supports downloads from all video portals that would be possible with yt-dlp. A full list of supported 
 pages can be found at this link.
+
 https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/supportedsites.md
 
 The user interface is based on . NET6 and Electron. For the download and conversion of video and 
@@ -34,4 +35,6 @@ The App seeps to not responsive, when adding big files for download. I think yt-
 
 # Alternative Downloader "Downloadthek"
 There is another implementation of this Video Downloader with the name "Downloadthek", which is not using yt-dlp. This App is a little faster but only support downloads from YouTube and XVideos
+
 https://github.com/hswlab/downloadthek
+
