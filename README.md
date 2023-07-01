@@ -31,7 +31,7 @@ automatically in the settings view. A detailed description can be found in the h
 - English: https://github.com/hswlab/EVD/blob/main/about-en.pdf
 
 # Known issues
-The App seems to not responsive, when adding big files for download. I think yt-dlp needs a little more time to grab the Information about the File. If the App still not respond, just restart it.
+The App seems to be not responsive, when adding big files for download. I think yt-dlp needs a little more time to grab the Information about the File. If the App still not respond, just restart it.
 
 # Alternative Video Downloader "Downloadthek"
 There is another implementation of this Video Downloader with the name "Downloadthek", which is not using yt-dlp. This App is a little faster but only support downloads from YouTube and XVideos
