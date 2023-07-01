@@ -3,13 +3,12 @@
 [![Downloads](https://img.shields.io/github/downloads/hswlab/EVD/total)](https://github.com/hswlab/EVD/releases/latest) 
 [![Downloads](https://img.shields.io/github/v/release/hswlab/EVD)](https://github.com/hswlab/EVD/releases/latest) 
 
-EVD is a graphical user interface for the well-known media downloader yt-dlp. In principle, this 
-supports downloads from all video portals that would be possible with yt-dlp. A full list of supported 
-pages can be found at this link.
+EVD is a graphical user interface for the media downloader yt-dlp. A full list of supported 
+websites of yt-dlp can be found at this link.
 
 https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/supportedsites.md
 
-The user interface is based on . NET6 and Electron. For the download and conversion of video and 
+The user interface is based on .NET6 and Electron. For the download and conversion of video and 
 audio, the ffmpeg and yt-dlp library is required. The external libraries can be downloaded and set up 
 automatically in the settings view. A detailed description can be found in the help PDF
 
