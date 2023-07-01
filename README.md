@@ -4,7 +4,7 @@
 [![Downloads](https://img.shields.io/github/v/release/hswlab/EVD)](https://github.com/hswlab/EVD/releases/latest) 
 
 EVD is a graphical user interface for the media downloader yt-dlp. A full list of supported 
-websites of yt-dlp can be found at this link.
+websites of yt-dlp for download can be found at this link.
 
 https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/supportedsites.md
 
