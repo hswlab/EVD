@@ -14,6 +14,8 @@ automatically in the settings view. A detailed description can be found in the h
 
 ![preview](https://github.com/hswlab/EVD/blob/main/Screenshot.png)
 
+![preview](https://github.com/hswlab/EVD/blob/main/Screenshot2.png)
+
 # Nuget packages and associated licenses used in EVD
 - Newtonsoft.Json <a href="https://licenses.nuget.org/MIT">`license: MIT`</a>
 - Esprima <a href="https://licenses.nuget.org/BSD-3-Clause">`license: BSD-3-Clause`</a>
