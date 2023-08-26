@@ -36,8 +36,3 @@ The following libraries must be downloaded additionally for the download and vid
 - The App seems to be not responsive, when adding big files for download. I think yt-dlp needs a little more time to grab the Information about the File. If the App still not respond, just restart it.
 - Downloads not working anymore. Probably there is a new version of yt-dlp, that can fix this problem. Try to make a new download of yt-dlp in settings view.
 
-# Alternative Video Downloader "Downloadthek"
-There is another implementation of this Video Downloader with the name "Downloadthek", which is not using yt-dlp. This App is a little faster but only support downloads from YouTube and XVideos
-
-https://github.com/hswlab/downloadthek
-
